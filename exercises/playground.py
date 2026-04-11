@@ -1,3 +1,7 @@
+# methods of grading scores
+
+
+''' method 1 '''
 score = int(input("Enter your score: "))
 
 if score >= 90:
